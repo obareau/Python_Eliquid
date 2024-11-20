@@ -1,0 +1,15 @@
+{
+    "date_creation": "2024-11-20 02:35:24",
+    "volume_total": 100.0,
+    "arome_proportion": 10.0,
+    "nicotine_target": 6.0,
+    "booster_nicotine": 20.0,
+    "base_pg": 50.0,
+    "base_vg": 50.0,
+    "booster_pg": 50.0,
+    "booster_vg": 50.0,
+    "arome_pg": 100.0,
+    "arome_vg": 0.0,
+    "base_nicotined": true,
+    "base_nicotine": 3.0
+}

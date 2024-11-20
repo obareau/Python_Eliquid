@@ -1,0 +1,4 @@
+matplotlib
+qrcode[pil]
+Pillow
+fpdf

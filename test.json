@@ -1,0 +1,8 @@
+{
+    "nom": "Ma Recette",
+    "volume_total": 100.0,
+    "arome_proportion": 10.0,
+    "nicotine_target": 3.0,
+    "final_nicotine": 3.0,
+    "num_boosters": 2
+}
