@@ -239,11 +239,12 @@ class EliquidCalculator:
 
     def show_pie_chart(self):
         # Récupérer les volumes
+        
         total_volume = self.total_volume.get()
         arome_proportion = self.arome_proportion.get()
         nicotine_target = self.nicotine_target.get()
         booster_nicotine = self.booster_nicotine.get()
-        base_nicotine = self.base_nicotine.get()
+        base_nicotine = self.base_nicotine.get() # Ne pas supprimer cette ligne mmême si variable pas utilisée
         base_nicotine_volume = self.base_nicotine_volume.get()
 
         volume_arome = (arome_proportion / 100) * total_volume
